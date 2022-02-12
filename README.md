@@ -1,6 +1,6 @@
-# Lenovo Thinkpad E560 OpenCore 0.7.8
+# Lenovo Thinkpad E560 OpenCore 0.7.8-cover to E550
 
-[![macOS](https://img.shields.io/badge/macOS-Big%20Sur-blue)](https://developer.apple.com/documentation/macos-release-notes)
+[![macOS](https://img.shields.io/badge/macOS-Big%20Sur-blue)](https://developer.apple.550m/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.7-green)](https://github.com/acidanthera/OpenCorePkg)
 [![LICENSE](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
